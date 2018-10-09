@@ -8,4 +8,8 @@ Fifth Choice:Wait a minute. Helga should've known not to pick up the pipe. Every
 Sixth Choice: Approach Billy
 Seventh Choice: Talk to Billy directly
 Eighth Choice: As if! Billy's acting weird. He's clearly hiding something. Accuse Billy
+Nineth Choice: Approach Danny
+tenth Choice: You've seen enough. Danny's clearly guilty! Taking out the trash? Cleaning up the mess? Come on. Accuse Danny.
+
+
 
